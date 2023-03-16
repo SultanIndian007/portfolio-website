@@ -1,14 +1,14 @@
 ---
 date: '4'
-title: 'SimplyMart'
-coverImage: './project.png'
-github: 'https://github.com/SimplyMart'
+title: 'Youtube Clone'
+coverImage: './project2.png'
+github: 'https://github.com/SultanIndian007/Youtube_Clone'
+external: 'https://amanytclone.netlify.app/'
 tech:
   - ReactJS
-  - Firebase
-  - Context API
-  - Styled Components
+  - Material UI-5
+  - Rapid API
 showInProjects: false
 ---
 
-SimplyMart is an application that provides its users easy self-service at shopping marts in a very simple way because it eliminates the long queues and reduces running costs for marts. This project won second prize in InnerveHacks'21.
+Youtube Clone is an online ad free web application which is great in showing youtube videos with lowest latency and great UI design which enhances the overall experience too.

@@ -1,26 +1,18 @@
 ---
 title: 'About Me'
-avatar: './profile.jpg'
+avatar: './me3.jpeg'
 showInProjects: false
 skills:
+  - MERN Stack
   - JavaScript
-  - TypeScript
-  - ReactJS
-  - NodeJS
-  - Firebase
-  - Docker
-  - MongoDB
-  - PostgreSQL
-  - Jenkins
-  - NuxtJS
+  - C++
+  - Material UI
 ---
 
-Hello! I'm Apoorv, a Final year CSE Undergraduate from MAIT, Delhi.
+Hello! I'm Aman, a pre Final year AI&DS Undergrad from TCET, Mumbai.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
+I was a Software Development Intern @ [SportVot](https://sportvot.com/) and Data Science Intern @ [SayHey](https://sayhey.co.in/). I am fortunate to be the Co founder & Vice President of [Mind Benders Club](https://linktr.ee/mbc_tcet) too. Prior to this we had qualified SIH'22 college rounds and achieved second runner up in [Android Buzz](https://drive.google.com/file/d/1sLscfRzEUMIbMmKu-wk8oe6A8aTNkoP2/view?usp=sharing) hackathon too.
 
-I was an MLH Fellow for Summer '22 @ [Solana Labs](https://solana.com/) where I worked with [Metaplex](https://www.metaplex.com/) under Solana Ecosystem. I was also a GitHub Extern for Winter '22 where I worked with [Symbl.ai](https://symbl.ai/) as a Software Engineering Intern. Prior to this, I worked with [Intervue](https://intervue.io) as Software Engineering Intern and [Raahee](https://raahee.in/) as Software Development Intern.
-
-I and my team Nocturnal Coders have won the Smart India Hackathon 2022 Software Edition recently.
+Being [3 star @CodeChef](https://www.codechef.com/users/aman_offical) and [1774 @Leetcode](https://leetcode.com/SultanIndian/), I also enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
 
 Here are a few technologies I've been working with recently:

@@ -1,37 +1,36 @@
 module.exports = {
-  siteTitle: 'Apoorv Dwivedi | Software Engineer',
+  siteTitle: 'Aman Tiwari | Software Engineer',
   siteDescription:
-    'Apoorv Dwivedi is a pre-final from Maharaja Agrasen Institute of Technology who specializes in full stack web development.',
-  siteKeywords:
-    'Apoorv Dwivedi, Apoorv, Dwivedi, apoorv-dwivedi, software engineer, web developer, mait',
-  siteUrl: 'https://apoorvdwivedi.live',
+    'Aman Tiwari is a pre-final from Thakur College of Engineering and Technology who specializes in full stack web development.',
+  siteKeywords: 'Aman Tiwari, Aman, Tiwari, aman-tiwari, software engineer, web developer, tcet',
+  siteUrl: 'https://amantiwari.live',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'G-CJZ4NM2JE1',
   googleVerification: 'todo',
-  name: 'Apoorv Dwivedi',
-  location: 'Delhi, India',
-  email: 'apoorvd14@gmail.com',
-  github: 'https://github.com/apoorvdwi',
+  name: 'Aman Tiwari',
+  location: 'Mumbai, India',
+  email: 'amantiwari201608@gmail.com',
+  github: 'https://github.com/SultanIndian007',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/apoorvdwi',
-    },
-    {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/apoorvdwi/',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/Apoorvdwi',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/apoorv_dwi2506',
+      url: 'https://github.com/SultanIndian007',
     },
     {
       name: 'Codechef',
-      url: 'https://leetcode.com/apoorvd14/',
+      url: 'https://leetcode.com/SultanIndian/',
+    },
+    {
+      name: 'cc',
+      url: 'https://www.codechef.com/users/aman_offical',
+    },
+    {
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/aman-tiwari-603245200/',
+    },
+    {
+      name: 'Twitter',
+      url: 'https://twitter.com/Aman53736842',
     },
   ],
 
