@@ -6,4 +6,4 @@ showInProjects: true
 buttonText: 'Get In Touch'
 ---
 
-Always on the lookout to learn new technologies and skills. A passionate engineering undergraduate with undying attachment to technology and a skilled Software engineer with expertise in Full-Stack Web Development.
+Always on the lookout to learn new technologies and skills. A passionate engineering undergraduate with undying attachment to technology and a skilled Software Development engineer with expertise in Front End Development.
