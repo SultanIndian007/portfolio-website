@@ -8,7 +8,7 @@ tech:
   - React
   - Redux
   - Firebase
-showInProjects: true
+showInProjects: false
 ---
 
 Official Website for Raahee.

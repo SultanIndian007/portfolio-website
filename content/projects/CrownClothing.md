@@ -1,14 +1,16 @@
 ---
 date: '2021-02-07'
-title: 'Crown Clothing'
-github: 'https://github.com/apoorvdwi/CrownClothing'
-external: 'https://crownclothingapoorv.netlify.app/'
+title: 'SUM UP'
+github: ''
+external: ''
 tech:
   - React
-  - Redux
-  - Firebase
-company: 'MAIT'
+  - NodeJs
+  - MongoDB
+  - Material UI
+  - Django
+company: 'Mastek'
 showInProjects: true
 ---
 
-A Ecommerce clothing website made using react and features like redux and firebase for authentication.
+A webapp to simplify the process of summarizing team meetings with machine learning models. An extension has been developed to provide additional features using live transcription, export transcripts, store and share previous summaries too.

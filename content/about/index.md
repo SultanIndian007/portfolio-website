@@ -9,7 +9,7 @@ skills:
   - Material UI
 ---
 
-Hello! I'm Aman, a pre Final year AI&DS Undergrad from TCET, Mumbai with CGPA 9.74.
+Hello! I'm Aman, a pre Final year AI&DS Undergrad from TCET, Mumbai with CGPA 9.74 / 10.
 
 I was a Software Development Intern @ [SportVot](https://sportvot.com/) and Data Science Intern @ [SayHey](https://sayhey.co.in/). I am fortunate to be the Co founder & Vice President of [Mind Benders Club](https://linktr.ee/mbc_tcet) too. Prior to this we had qualified SIH'22 college rounds and achieved second runner up in [Android Buzz](https://drive.google.com/file/d/1sLscfRzEUMIbMmKu-wk8oe6A8aTNkoP2/view?usp=sharing) hackathon too.
 

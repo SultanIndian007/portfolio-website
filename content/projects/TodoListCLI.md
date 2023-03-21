@@ -7,7 +7,7 @@ tech:
   - Node.js
   - CLI development
 company: MAIT
-showInProjects: true
+showInProjects: false
 ---
 
 A todoList CLI app built using nodejs fs module. No external npm module is needed. It offers a lot of functionality.

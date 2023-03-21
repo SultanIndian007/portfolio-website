@@ -7,7 +7,7 @@ tech:
   - Nuxt
   - Vercel
 company: 'Hack This Fall'
-showInProjects: true
+showInProjects: false
 ---
 
 Official Website for HackThisFall 2.0 built using nuxt.js.

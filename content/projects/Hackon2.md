@@ -8,7 +8,7 @@ tech:
   - AWS
   - Vercel
 company: 'Hackon Foundation'
-showInProjects: true
+showInProjects: false
 ---
 
 Official Website for HackOn 2.0 built using nuxt.js.
